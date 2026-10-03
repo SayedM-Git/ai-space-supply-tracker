@@ -18,3 +18,8 @@ Capture a clear image of a spacecraft storage area so the supply tracker can hel
 - Provide a clear way to capture or retake an image.
 - Ask the crew member to review the image before continuing.
 - Keep the captured image associated with the inventory scan.
+
+
+## Image quality tip
+
+Good lighting and an unobstructed view help the tracker identify supplies more clearly.
